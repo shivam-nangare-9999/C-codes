@@ -10,5 +10,6 @@ int main(int argc, char const *argv[])
     scanf("%d",&b);
     
     printf("Sum is %d",a+b);
+    
     return 0;
 }
