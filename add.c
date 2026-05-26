@@ -1,5 +1,4 @@
 //2 Number Addition
-
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
@@ -11,5 +10,6 @@ int main(int argc, char const *argv[])
     scanf("%d",&b);
     
     printf("Sum is %d",a+b);
+    
     return 0;
 }
