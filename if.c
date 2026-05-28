@@ -6,6 +6,7 @@ int main()
     scanf("%d", &age);
     printf("You Have Entered %d\n",age);
     if(age>=18){
+        
         printf("You Can Vote\n");
     }
     else{
