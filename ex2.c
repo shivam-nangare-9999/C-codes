@@ -13,10 +13,12 @@ int main()
     {
         printf("Wow!, you have won the prize of Rs15 for clearing the exam of Maths\n");
     }
-    else if(a == 2){
+    else if(a == 2)
+    {
         printf("Wow!, you have won the prize of Rs15 for clearing the exam of Science\n");
     }
-    else if(a == 3){
+    else if(a == 3)
+    {
         printf("Wow!, you have won the prize of Rs45 for clearing the exam of Maths and Science\n");
     }
     else
