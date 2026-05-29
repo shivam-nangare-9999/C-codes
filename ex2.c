@@ -9,7 +9,8 @@ int main()
     scanf("%d", &a);
 
 
-    if(a == 1){
+    if(a == 1)
+    {
         printf("Wow!, you have won the prize of Rs15 for clearing the exam of Maths\n");
     }
     else if(a == 2){
