@@ -1,7 +1,8 @@
 #include <stdio.h> 
 
 
-int main(){
+int main()
+{
     int a; 
     printf("Which of the subjects have you passed? \n");
     printf("Type 1 for maths, 2 for Science, 3 for both maths and science \n");
