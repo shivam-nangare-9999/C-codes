@@ -10,4 +10,5 @@ int main()
     printf("a/b=%f\n",a/b);
    
     return 0;
+    
 }
