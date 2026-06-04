@@ -1,7 +1,6 @@
     #include<stdio.h>
     int main()
 
-
     {
         int a;
         printf("Enter The Number You Want Multiplication Table Of: ");
