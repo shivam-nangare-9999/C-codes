@@ -6,6 +6,5 @@ int main()
 
     printf("the value of a is %d and the value of b is %f",a,b);
 
-
     return 0;
 }
