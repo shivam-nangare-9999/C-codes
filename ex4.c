@@ -6,7 +6,6 @@ to convert kilometers to miles
  to convert inches to meters
  By using switch case conditions in C Language*/
 
-
  
 #include <stdio.h>
 int main()
