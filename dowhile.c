@@ -8,6 +8,7 @@ int main()
         i=i+1;
         printf("%d\n", i);
     }
+        
 while (i<20);
 
     return 0;
