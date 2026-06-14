@@ -1,6 +1,5 @@
 #include<stdio.h>
 int main()
-
 {
     float a,b;
     a=10.0;
