@@ -4,7 +4,7 @@
         int a;
         printf("Enter The Number You Want Multiplication Table Of: ");
         scanf("%d",&a);
-
+        printf("Hello");
         for(int i=1;i<=10;i++)
         {
             printf("%2d x %2d = %3d\n",a,i,a*i);
