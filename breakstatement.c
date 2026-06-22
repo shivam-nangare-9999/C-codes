@@ -10,6 +10,7 @@ int main()
         if (age>10)
           {  
             break;
+
           }
     }
 }
