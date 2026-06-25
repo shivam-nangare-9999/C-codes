@@ -13,4 +13,5 @@ int main(int argc, char const *argv[])
          printf("%d x %d =%d\n", num, i, num*i);
    }
     return 0;
+   
 }
