@@ -9,6 +9,7 @@ int main()
     if(ch >=97 && ch<=122){
         printf("The Character is lower case \n");
     }
+
     else{
         printf("The Character is upper case \n");
     }
